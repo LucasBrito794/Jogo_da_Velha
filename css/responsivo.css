@@ -1,0 +1,6 @@
+@media only screen and (max-width: 658px) {
+    #message p {
+        font-size: 25px;
+        width: 250px;
+    }
+}
